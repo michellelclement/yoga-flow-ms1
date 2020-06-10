@@ -80,8 +80,6 @@ h2 {
     margin-top: 30px;
     margin-bottom: 100px;
     padding: 0;
-    height: 100%;
-    width: 100%;
 }
 
 .images-row {
@@ -92,6 +90,18 @@ h2 {
     padding: 0;
 
 }
+
+
+
+/* -------------------------------------------Location */
+
+
+
+.location-container h2 {
+    padding-top: 100px;
+}
+
+
 /* -------------------------------------------Media Queries */
 
 @media (max-width: 480px) {
