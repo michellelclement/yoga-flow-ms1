@@ -2,13 +2,15 @@ body {
     font-family: "Quicksand", sans-serif;
 }
 
-/* Colours Section */
+/* --------------------------------------Colours Section */
 
 .btn {
     color: #FAFAFA;
     background-color: #FF8970;
     border: none;
 }
+
+/* --------------------------------------Nav Section */
 
 .navbar {
     padding: 10px 50px;
@@ -22,6 +24,9 @@ body {
     font-size: 1.5rem;
     font-weight: 600;
 }
+
+
+/* --------------------------------------Jumbotron Section */
 
 
 .jumbotron-container {
@@ -38,11 +43,38 @@ body {
     background-color: transparent;
 }
 
+
+
+/* --------------------------------------About Section */
+
+.about-section {
+    margin: 100px 100px;
+}
+
+.about-section h2 {
+    margin: 0;
+    padding-top: 0px;
+    padding-bottom: 50px;
+}
+
+.about-section p {
+    margin: 0;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.about-button {
+    margin: 30px;
+}
+
+
+/* -------------------------------------------Media Queries */
+
 @media (max-width: 480px) {
     .jumbotron-container {
-        background: none;
+        height: 75vh;
         background: url('../images/mobile1.jpg') no-repeat top fixed;
-        padding-top: 40px;
+        padding-top: 70px;
     }
     }   
 
@@ -55,8 +87,7 @@ body {
 
 @media (max-width: 480px) {
     .jumbotron-container h1 {  
-        font-size: 50px;
-        
+        font-size: 40px;
     }
     }  
 
@@ -65,3 +96,41 @@ body {
         font-size: 20px;
     }
     } 
+
+@media (max-width: 480px) {
+    .jumbotron-container button {  
+        margin-top: 40px;
+    }
+    } 
+
+@media (max-width: 480px) {
+.about-section {
+    margin: 70px 20px;
+}
+}
+
+@media (max-width: 480px) {
+.about-section h2 {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin: 0;
+}
+}
+
+@media (max-width: 480px) {
+    .about-section p {
+        margin: 0px;
+        padding-top: 20px;
+        padding-bottom: 20px; 
+}
+}
+
+@media (max-width: 480px) {
+    .about-section button {
+        margin-top: 20px;
+        margin-right: 0px;
+        margin-bottom: 30px;
+        margin-left: 0px;
+
+}
+}
