@@ -1,0 +1,24 @@
+body {
+    font-family: "Quicksand", sans-serif;
+}
+
+/* Colours Section */
+
+.btn {
+    color: #FAFAFA;
+    background-color: #FF8970;
+    border: none;
+}
+
+.navbar {
+    padding: 10px 50px;
+}
+
+.nav-item-list {
+    justify-content: flex-end;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
