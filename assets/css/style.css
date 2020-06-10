@@ -22,3 +22,24 @@ body {
     font-size: 1.5rem;
     font-weight: 600;
 }
+
+
+.jumbotron-container {
+    height: 80vh;
+    background: url('../images/jumbo-7.jpg') no-repeat top fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    position: relative;
+    padding-top: 150px;
+}
+
+.jumbotron {
+    background-color: transparent;
+}
+
+@media (max-width: 480px) {
+    .jumbotron-container {
+        background: url('../images/jumbo-3.jpg') no-repeat top fixed;
+    }
+    }   
