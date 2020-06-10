@@ -2,6 +2,14 @@ body {
     font-family: "Quicksand", sans-serif;
 }
 
+h2 {
+    text-transform: uppercase;
+}
+
+h3 {
+    font-size: 30px;
+    font-weight: 500;
+}
 /* --------------------------------------Colours Section */
 
 .btn {
@@ -21,7 +29,7 @@ body {
 }
 
 .navbar-brand {
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     font-weight: 600;
 }
 
@@ -43,7 +51,9 @@ body {
     background-color: transparent;
 }
 
-
+.jumbotron .btn {
+    margin-top: 20px;
+}
 
 /* --------------------------------------About Section */
 
@@ -131,6 +141,5 @@ body {
         margin-right: 0px;
         margin-bottom: 30px;
         margin-left: 0px;
-
 }
 }
