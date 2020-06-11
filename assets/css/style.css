@@ -141,6 +141,8 @@ footer {
     text-decoration: none;
     color: #FF8970;
     padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 /* -------------------------------------------Media Queries */
