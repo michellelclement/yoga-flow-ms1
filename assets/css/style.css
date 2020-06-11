@@ -24,6 +24,8 @@ h2 {
 
 .nav-item-list {
     justify-content: flex-end;
+    font-size: 1.05rem;
+    text-transform: uppercase;
 }
 
 .navbar-brand {
@@ -103,6 +105,30 @@ h2 {
 
 /* 
 
+
+
+/* ------------------------------------------Contact Page */
+
+
+.contact-section {
+    margin: 100px 100px;
+}
+
+.contact-section h2 {
+    margin: 0;
+    padding-top: 0px;
+    padding-bottom: 50px;
+}
+
+.contact-section p {
+    margin: 0;
+    padding-top: 30px;
+    padding-bottom: 25px;
+}
+
+.form-container {
+    padding-bottom: 100px;
+}
 /* ------------------------------------------Footer Section */
 
 footer {
