@@ -41,8 +41,6 @@ h2 {
     height: 80vh;
     background: url('../images/jumbo-7.jpg') no-repeat top fixed;
     background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
     position: relative;
     padding-top: 150px;
 }
@@ -102,10 +100,6 @@ h2 {
     margin-top: 50px;
     margin-bottom: 100px
 }
-
-/* 
-
-
 
 /* ------------------------------------------Contact Page */
 
