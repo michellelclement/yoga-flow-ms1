@@ -19,6 +19,7 @@ h2 {
 
 .navbar {
     padding: 10px 50px;
+    background-color: #FAFAFA;
 }
 
 .nav-item-list {
@@ -78,7 +79,7 @@ h2 {
 
 .images-container {
     margin-top: 30px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     padding: 0;
 }
 
@@ -95,12 +96,24 @@ h2 {
 
 /* -------------------------------------------Location */
 
-
-
-.location-container h2 {
-    padding-top: 100px;
+.location-container {
+    margin-top: 50px;
+    margin-bottom: 100px
 }
 
+/* 
+
+/* ------------------------------------------Footer Section */
+
+footer {
+    background-color: #fafafa;
+}
+.social-links li a i {
+    font-size: 20px;
+    text-decoration: none;
+    color: #FF8970;
+    padding-top: 20px;
+}
 
 /* -------------------------------------------Media Queries */
 
