@@ -139,6 +139,10 @@ footer {
     padding-right: 20px;
 }
 
+.social-links li a i:hover {
+    color: #212529;
+}
+
 /* -------------------------------------------Media Queries */
 
 @media (max-width: 480px) {
