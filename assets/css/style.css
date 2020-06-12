@@ -91,21 +91,26 @@ h2 {
 /* --------------------------------------Images Section */
 
 .images-container {
-    margin-top: 30px;
-    margin-bottom: 50px;
+    width: auto;
     padding: 0;
+}
+
+.images-container img{
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
 }
 
 .images-row {
     margin: 0;
-}
-
-.col-sm {
     padding: 0;
-
 }
 
-
+.image {
+    margin: 0;
+    padding: 0;
+}
 
 /* -------------------------------------------Location */
 
@@ -166,12 +171,11 @@ footer {
     background-size: cover;
     background-position: bottom;
     width: 100%;
-    padding-top: 100px;
+    padding-top: 75px;
     padding-right: 5%;
     padding-left: 5%;
 }
 }
- 
 
 @media (max-width: 540px) {
     .jumbotron-container h1 {  
