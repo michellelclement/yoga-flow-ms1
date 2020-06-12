@@ -217,92 +217,63 @@ footer {
         padding-right: 5%;
         padding-left: 5%;
     }
-}
 
-@media (max-width: 540px) {
     .jumbotron-container h1 {  
         font-size: 40px;
     }
-}  
 
-@media (max-width: 540px) {
     .jumbotron-button {  
         margin-top: 10px;
     }
-}  
 
-
-@media (max-width: 540px) {
-.about-section {
+    .about-section {
     margin: 70px 20px;
     }
-}
 
-@media (max-width: 540px) {
-.about-section h2 {
+    .about-section h2 {
     padding-top: 30px;
     padding-bottom: 20px;
     margin: 0;
     }
-}
 
-@media (max-width: 540px) {
     .about-section p {
         margin: 0px;
         padding-top: 20px;
         padding-bottom: 20px; 
     }
-}
 
-@media (max-width: 540px) {
     .about-section button {
         margin: 20px 0px;
     }
-}
 
-@media (max-width: 540px) {
     .contact-section  {
         margin: 70px 20px;
     }
-}
 
-@media (max-width: 540px) {
     .form-container {
         margin: 60px 20px;
     }
-}
 
-@media (max-width: 540px) {
     .findaclass-section  {
         margin: 70px 20px;
     }
-}
 
-@media (max-width: 540px) {
     .table-container {
         margin-left: 1%;
         margin-right: 1%;
         align-items: center;
-    
     }
-}
 
-@media (max-width: 540px) {
     .table-column {
         margin: 0;
         padding: 0;
     }
-}
 
-
-@media (max-width: 540px) {
     .table-row {
         margin-left: 0;
         margin-right: 0;
     }
-}
 
-@media (max-width: 540px) {
     .location-text {
         margin: 10px 5px 30px 5px;
     }
