@@ -3,7 +3,6 @@ html,body {
     margin: 0px;
     padding: 0px;
     overflow-x: hidden;
-
 }
 
 body {
@@ -55,10 +54,12 @@ h2 {
     width: 100%;
     padding-top: 100px;
 }
+
 .jumbotron {
     background-color: transparent;
     padding-top: 0;
 }
+
 .jumbotron h1 {
     font-size: 4rem;
 }
@@ -66,6 +67,7 @@ h2 {
 .jumbotron-button {
     margin-top: 50px;
 }
+
 /* --------------------------------------About Section */
 
 .about-section {
@@ -191,35 +193,35 @@ footer {
  
 
 @media (max-width: 540px) {
-.jumbotron-container {
-    height: 80vh;
-    background: url('../images/mobile-13.jpg') no-repeat fixed;
-    background-size: cover;
-    background-position: bottom;
-    width: 100%;
-    padding-top: 75px;
-    padding-right: 5%;
-    padding-left: 5%;
-}
+    .jumbotron-container {
+        height: 80vh;
+        background: url('../images/mobile-13.jpg') no-repeat fixed;
+        background-size: cover;
+        background-position: bottom;
+        width: 100%;
+        padding-top: 75px;
+        padding-right: 5%;
+        padding-left: 5%;
+    }
 }
 
 @media (max-width: 540px) {
     .jumbotron-container h1 {  
         font-size: 40px;
     }
-    }  
+}  
 
 @media (max-width: 540px) {
     .jumbotron-button {  
         margin-top: 10px;
     }
-    }  
+}  
 
 
 @media (max-width: 540px) {
 .about-section {
     margin: 70px 20px;
-}
+    }
 }
 
 @media (max-width: 540px) {
@@ -227,7 +229,7 @@ footer {
     padding-top: 30px;
     padding-bottom: 20px;
     margin: 0;
-}
+    }
 }
 
 @media (max-width: 540px) {
@@ -235,13 +237,13 @@ footer {
         margin: 0px;
         padding-top: 20px;
         padding-bottom: 20px; 
-}
+    }
 }
 
 @media (max-width: 540px) {
     .about-section button {
         margin: 20px 0px;
-}
+    }
 }
 
 @media (max-width: 540px) {
@@ -253,8 +255,7 @@ footer {
     .form-container {
         margin: 60px 20px;
     }
-    }
-
+}
 
 @media (max-width: 540px) {
     .findaclass-section  {
@@ -285,11 +286,11 @@ footer {
     }
 }
 
-    @media (max-width: 540px) {
+@media (max-width: 540px) {
     .location-text {
-        margin-top: 10px 
+        margin-top: 10px; 
         margin-right: 5px;
         margin-bottom: 30px;
         margin-left: 5px;
     }
-    }
+}
