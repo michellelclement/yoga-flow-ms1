@@ -121,6 +121,19 @@ h2 {
     margin-bottom: 100px
 }
 
+.location-map {
+    width: auto;
+    padding: 0;
+}
+
+.location-map img{
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+
 /* ------------------------------------------Contact Page */
 
 
