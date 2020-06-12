@@ -189,6 +189,7 @@ footer {
     background-color: #fafafa;
     margin-top: 100px;
 }
+
 .social-links li a i {
     font-size: 20px;
     text-decoration: none;
@@ -263,6 +264,7 @@ footer {
     .contact-section  {
         margin: 70px 20px;
     }
+}
 
 @media (max-width: 540px) {
     .form-container {
@@ -274,6 +276,7 @@ footer {
     .findaclass-section  {
         margin: 70px 20px;
     }
+}
 
 @media (max-width: 540px) {
     .table-container {
@@ -301,9 +304,6 @@ footer {
 
 @media (max-width: 540px) {
     .location-text {
-        margin-top: 10px; 
-        margin-right: 5px;
-        margin-bottom: 30px;
-        margin-left: 5px;
+        margin: 10px 5px 30px 5px;
     }
 }
