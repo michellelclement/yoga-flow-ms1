@@ -48,6 +48,9 @@ h2 {
     font-size: 1.05rem;
     text-transform: uppercase;
 }
+.nav-item a:hover {
+        color: #FF8970 !important;
+}
 
 .navbar-brand {
     font-size: 1.7rem;
@@ -309,38 +312,3 @@ footer {
         margin: 10px 5px 30px 5px;
     }
 }
-/*
-@media only screen 
-  and (min-device-width: 375px) 
-  and (max-device-width: 667px) 
-  and (-webkit-min-device-pixel-ratio: 2)
-  and (orientation: portrait) { 
-
-    .jumbotron-container {
-        height: 80vh;
-        background: url('../images/mobile-13.jpg') no-repeat;
-        background-size: cover;
-        background-position: bottom;
-        width: 100%;
-        padding-top: 75px;
-        padding-right: 5%;
-        padding-left: 5%;
-    }
-}
-
-@media only screen 
-  and (min-device-width: 320px) 
-  and (max-device-width: 568px)
-  and (-webkit-min-device-pixel-ratio: 2) {
-      .jumbotron-container {
-        height: 80vh;
-        background: url('../images/mobile-13.jpg') no-repeat;
-        background-size: cover;
-        background-position: bottom;
-        width: 100%;
-        padding-top: 75px;
-        padding-right: 5%;
-        padding-left: 5%;
-    }
-  }
-  */
