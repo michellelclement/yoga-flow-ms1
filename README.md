@@ -28,14 +28,20 @@ Contact form: Easily found on the contact page, this form allows users to send a
 Whilst the site currently states that the classes are on a 'drop in' basis, a future feature that I would love to add would be a class booking feature. This would be beneficial for when the studio becomes very popular and needs to limit class sizes.
 
 ## Technologies Used
+* [HTML](http://google.com)
+* [CSS](http://google.com) 
+* [Bootstrap](http://google.com)
+* [GitHub](http://google.com)
+* [GitPod](http://google.com)
 
-[HTML](http://google.com)
-[CSS](http://google.com) 
-[Bootstrap](http://google.com)
-[GitHub](http://google.com)
-[GitPod](http://google.com)
-[Adobe Photoshop](http://google.com)
-[Adobe Color](http://google.com)
+
+## Tools Used
+* [Balsamiq](https://balsamiq.com/) - Used to create my wireframes, showing the positioning of elements on varying screen sizes.
+* [Adobe Photoshop](http://google.com) - Photoshop was used to create my map image
+* [Adobe Color](http://google.com) - This tool helped me to select my complementing colours
+* [W3C HTML Validator](https://validator.w3.org/) - I used this tool to check the validity of my HTML code.
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - I used this tool to check the validity of my CSS code.
+
 
 ## Project Setup
 Upon starting my project, I used a blank repository rather than using the Code Institute template. Once I was informed of the mistake by my mentor, I restarted my project using the correct template.
@@ -44,25 +50,42 @@ Initial and freequent commits for the index.html page are stored in the original
 
 
 ## Testing
-
+TO BE COMPLETED
 
 ## Design
 
-Colours: I decided to stick to a very simple colour pallet which complements the Yoga mindset. I wanted to use a soft coral/orange colour, complemented by a green shade. I used Adobe Color to pick the perfect color combination. Upon styling of the website, I decided that, due to the lovely colours of the photography, one accent color was enough and two was unnessessary. I decided to stick with the soft orange/coral shade of #FF8970 to highlight CTA's. This colour also completmented the imagary, as well as the off white and a dark grey.
+**Colours** 
+I decided to stick to a very simple colour pallet which complements the Yoga mindset and audience. I wanted to use a soft coral/orange colour, complemented by a green shade. I used Adobe Color to pick the perfect color combination. 
 
-Typography: For the typography, I wanted to use a simple font that fitted with the calming nature of Yoga. I chose Quicksand for this reason due to both regular and capitalised text fitting this requrement, as well as the font being clear and legible on smaller devices.
+Nav & Footer background: #FAFAFA 
+Text: #212529
+Body background: #FFF
+CTA Buttons: #FF8970
+Green: #57FFBD (unused)
 
-Wireframes:
+Upon styling of the website, I decided that, due to the lovely colours of the photography, one accent color was enough and two was unnessessary. I decided to stick with the soft orange/coral shade of #FF8970 to highlight CTA's. This colour also completmented the imagary, as well as the off white and a dark grey.
 
+**Typography** 
+For the typography, I wanted to use a simple font that fitted with the calming nature of Yoga. I chose Quicksand for this reason due to both regular and capitalised text fitting this requrement, as well as the font being clear and legible on smaller devices. The font was installed into the head element of the HTML files, with a backup front of 'Sans-serif.'
+
+**Logo**
+the YOGA FLOW logo was created by myself, simply using the Quicksand font in uppercase, and a thicker font weight (600) to the rest of the website to make it stand out as the brand.
+
+**Wireframes**
+I used Balsamiq to create the website wireframes for desktop, tablet and mobile screens for each page of the website, showing how elements would differ depending on the varying screen size.
+
+[You can view all of the wireframes here](wireframes/wireframes-yoga-flow.pdf)
+
+I did not deviate from the original wireframes, other than with specific styling of elements such as making the footer icons smaller. 
 
 
 ## Credits
 
-### Content
+**Content**
 Website text: All website text was written by myself for this project specifically.
 Website colors were finalised using Adobe Color.
 
-### Media
+**Media**
 Photography Images: All photographs used were downloaded from the Royalty Free image website Pexels.
 Location map: The map image was created by myself using Photoshop.
 
