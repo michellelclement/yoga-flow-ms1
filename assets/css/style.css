@@ -312,3 +312,22 @@ footer {
         margin: 10px 5px 30px 5px;
     }
 }
+
+@media (max-width: 320px) {
+    .navbar-brand {
+        font-size: 1.5rem;
+    }
+    
+     .jumbotron-container h1 {  
+        font-size: 30px;
+    }
+
+    .table-container {
+        margin-left: 1px;
+        margin-right: 1px;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+        align-items: center;
+        font-size: 75%;
+    }
+}
