@@ -217,9 +217,28 @@ footer {
  
 
 @media (max-width: 540px) {
+    .nav-item-list {
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.25rem;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    }
+    
+    .nav-item-list li {
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    }
+
     .jumbotron-container {
         height: 80vh;
-        background: url('../images/mobile-13.jpg') no-repeat fixed;
+        background: url('../images/mobile-13.jpg') no-repeat;
         background-size: cover;
         background-position: bottom;
         width: 100%;
@@ -290,7 +309,7 @@ footer {
         margin: 10px 5px 30px 5px;
     }
 }
-
+/*
 @media only screen 
   and (min-device-width: 375px) 
   and (max-device-width: 667px) 
@@ -323,4 +342,5 @@ footer {
         padding-right: 5%;
         padding-left: 5%;
     }
-}
+  }
+  */
