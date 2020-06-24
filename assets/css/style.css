@@ -59,26 +59,29 @@ h2 {
 
 
 /* --------------------------------------Jumbotron Section */
-.jumbotron-container {
+.jumbotron-section {
     height: 80vh;
     background: url('../images/jumbo-13.jpg') no-repeat fixed;
     background-size: cover;
     background-position: bottom;
     width: 100%;
-    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    
 }
 
-.jumbotron {
+.jumbotron-content {
     background-color: transparent;
-    padding-top: 0;
+    align-content: center;
+    
 }
 
-.jumbotron h1 {
+.jumbotron-content h1 {
     font-size: 4rem;
 }
 
 .jumbotron-button {
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 /* --------------------------------------About Section */
@@ -146,7 +149,6 @@ h2 {
 
 /* ------------------------------------------Contact Page */
 
-
 .contact-section {
     margin: 100px 75px;
 }
@@ -174,12 +176,6 @@ h2 {
     padding-bottom: 30px;
 }
 
-.table-container {
-    margin-left: 20%;
-    margin-right: 20%
-}
-
-
 /* ------------------------------------------Footer Section */
 
 footer {
@@ -202,6 +198,25 @@ footer {
 
 /* -------------------------------------------Media Queries */
  
+@media (max-width: 991px) {
+    .jumbotron-section {
+        height: 100vh;
+        background: url('../images/mobile-13.jpg') no-repeat;
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+    }
+
+    .jumbotron-content{
+        margin: 0;
+    }
+    .jumbotron-section h1 {  
+        font-size: 40px;
+    }
+
+    .jumbotron-button {  
+        margin-top: 10px;
+    }
 
 @media (max-width: 540px) {
     .nav-item-list {
@@ -223,18 +238,22 @@ footer {
     padding-bottom: 5px;
     }
 
-    .jumbotron-container {
+    .jumbotron-section {
         height: 80vh;
         background: url('../images/mobile-13.jpg') no-repeat;
         background-size: cover;
         background-position: bottom;
         width: 100%;
-        padding-top: 75px;
+        padding-top: 50px;
         padding-right: 5%;
         padding-left: 5%;
+  
     }
 
-    .jumbotron-container h1 {  
+    .jumbotron-content{
+        margin: 0;
+    }
+    .jumbotron-section h1 {  
         font-size: 40px;
     }
 
