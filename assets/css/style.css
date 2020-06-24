@@ -84,19 +84,16 @@ h2 {
 /* --------------------------------------About Section */
 
 .about-section {
-    margin: 100px 100px;
+    margin: 100px;
 }
 
 .about-section h2 {
-    margin: 0;
     padding-top: 0px;
-    padding-bottom: 50px;
+    padding-bottom: 30px;
 }
 
 .about-section p {
-    margin: 0;
-    padding-top: 30px;
-    padding-bottom: 50px;
+    padding-bottom: 30px;
 }
 
 .about-button {
@@ -151,18 +148,14 @@ h2 {
 
 
 .contact-section {
-    margin: 100px 100px;
+    margin: 100px 75px;
 }
 
 .contact-section h2 {
-    margin: 0;
-    padding-top: 0px;
-    padding-bottom: 50px;
+    padding-bottom: 30px;
 }
 
 .contact-section p {
-    margin: 0;
-    padding-top: 30px;
     padding-bottom: 25px;
 }
 
@@ -175,25 +168,16 @@ h2 {
 
 .findaclass-section {
     margin: 100px 75px;
-    padding-top: 0px;
 }
 
 .findaclass-section h2 {
-    margin: 0;
-    padding-top: 0px;
-    padding-bottom: 50px;
-}
-
-.findaclass-section p {
-    margin: 0;
-    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .table-container {
     margin-left: 20%;
     margin-right: 20%
 }
-
 
 
 /* ------------------------------------------Footer Section */
