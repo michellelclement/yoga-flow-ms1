@@ -76,6 +76,7 @@ h2 {
 
 .jumbotron-content {
     background-color: transparent;
+    margin-top: 3.5rem;
     -ms-flex-line-pack: center;
         align-content: center;
     
@@ -227,28 +228,19 @@ footer {
         margin-top: 10px;
     }
 
-@media (max-width: 540px) {
+@media (max-width: 575px) {
     .jumbotron-section {
-        height: 80vh;
+        height: 90vh;
         background: url('../images/mobile-13.jpg') no-repeat;
         background-size: cover;
         background-position: bottom;
         width: 100%;
-        padding-top: 50px;
         padding-right: 5%;
         padding-left: 5%;
-  
     }
 
-    .jumbotron-content{
-        margin: 0;
-    }
     .jumbotron-section h1 {  
         font-size: 40px;
-    }
-
-    .jumbotron-button {  
-        margin-top: 10px;
     }
 
     .about-section {
@@ -265,10 +257,6 @@ footer {
         margin: 0px;
         padding-top: 20px;
         padding-bottom: 20px; 
-    }
-
-    .about-section button {
-        margin: 20px 0px;
     }
 
     .contact-section  {
@@ -292,7 +280,6 @@ footer {
     }
 
     .table-column {
-        margin: 0;
         padding: 0;
     }
 
