@@ -49,7 +49,7 @@ h2 {
     text-transform: uppercase;
 }
 .nav-item a:hover {
-        color: #FF8970 !important;
+    color: #FF8970 !important;
 }
 
 .navbar-brand {
@@ -123,14 +123,11 @@ h2 {
 
 .location-map {
     width: auto;
-    padding: 0;
 }
 
 .location-map img{
     height: 100%;
     width: 100%;
-    padding: 0;
-    margin: 0;
 }
 
 
@@ -197,6 +194,7 @@ footer {
     .jumbotron-content{
         margin: 0;
     }
+
     .jumbotron-section h1 {  
         font-size: 40px;
     }
@@ -207,22 +205,22 @@ footer {
 
 @media (max-width: 540px) {
     .nav-item-list {
-    -webkit-box-pack: end;
-        -ms-flex-pack: end;
-    text-align: center;
-    text-transform: uppercase;
-    font-size: 1.25rem;
-    padding-top: 50px;
-    padding-bottom: 50px;
+        -webkit-box-pack: end;
+            -ms-flex-pack: end;
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 1.25rem;
+        padding-top: 50px;
+        padding-bottom: 50px;
     }
     
     .nav-item-list li {
-    -webkit-box-pack: end;
-        -ms-flex-pack: end;
-    text-align: center;
-    text-transform: uppercase;
-    padding-top: 5px;
-    padding-bottom: 5px;
+        -webkit-box-pack: end;
+            -ms-flex-pack: end;
+        text-align: center;
+        text-transform: uppercase;
+        padding-top: 5px;
+        padding-bottom: 5px;
     }
 
     .jumbotron-section {
@@ -249,13 +247,13 @@ footer {
     }
 
     .about-section {
-    margin: 70px 20px;
+        margin: 70px 20px;
     }
 
     .about-section h2 {
-    padding-top: 30px;
-    padding-bottom: 20px;
-    margin: 0;
+        padding-top: 30px;
+        padding-bottom: 20px;
+        margin: 0;
     }
 
     .about-section p {
