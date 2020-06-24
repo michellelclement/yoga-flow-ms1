@@ -91,7 +91,6 @@ h2 {
 }
 
 .about-section h2 {
-    padding-top: 0px;
     padding-bottom: 30px;
 }
 
@@ -113,18 +112,6 @@ h2 {
 .images-container img{
     height: 100%;
     width: 100%;
-    padding: 0;
-    margin: 0;
-}
-
-.images-row {
-    margin: 0;
-    padding: 0;
-}
-
-.image {
-    margin: 0;
-    padding: 0;
 }
 
 /* -------------------------------------------Location */
