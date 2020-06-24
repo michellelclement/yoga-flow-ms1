@@ -37,10 +37,11 @@ Whilst the site currently states that the classes are on a 'drop in' basis, a fu
 
 ## Tools Used
 * [Balsamiq](https://balsamiq.com/) - Used to create my wireframes, showing the positioning of elements on varying screen sizes.
-* [Adobe Photoshop](http://google.com) - Photoshop was used to create my map image
-* [Adobe Color](http://google.com) - This tool helped me to select my complementing colours
+* [Adobe Photoshop](https://www.adobe.com/uk/products/photoshop.html) - Photoshop was used to create my map image
+* [Adobe Color](https://color.adobe.com/create) - This tool helped me to select my complementing colours
 * [W3C HTML Validator](https://validator.w3.org/) - I used this tool to check the validity of my HTML code.
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - I used this tool to check the validity of my CSS code.
+* [Autoprefixed](https://autoprefixer.github.io/) - I used this tool to check the validity of my CSS code.
 
 
 ## Project Setup
@@ -55,7 +56,7 @@ TO BE COMPLETED
 ## Design
 
 **Colours** 
-I decided to stick to a very simple colour pallet which complements the Yoga mindset and audience. I wanted to use a soft coral/orange colour, complemented by a green shade. I used Adobe Color to pick the perfect color combination. 
+I decided to stick to a very simple colour pallet which complements the Yoga mindset and audience. I wanted to use a soft coral/orange colour, complemented by a green shade. I used [Adobe Color](https://color.adobe.com/create) to pick the perfect color combination. 
 
 Nav & Footer background: #FAFAFA 
 Text: #212529
@@ -86,8 +87,8 @@ Website text: All website text was written by myself for this project specifical
 Website colors were finalised using Adobe Color.
 
 **Media**
-Photography Images: All photographs used were downloaded from the Royalty Free image website Pexels.
-Location map: The map image was created by myself using Photoshop.
+Photography Images: All photographs used were downloaded from the Royalty Free image website [Pexels](https://www.pexels.com/)
+Location map: The map image was created by myself using [Adobe Photoshop](https://www.adobe.com/uk/products/photoshop.html)
 
 ### Acknowledgements
 
@@ -99,6 +100,6 @@ Thank you to fellow student Jos Velema. Whilst looking for assistance on linking
 
 And finally a big thank you to my mentor Antonija Šimić!
 
-In addition to assistance from my mentor and the Slack community, I also received some assistance in writing my code from previously answered questions on the following websites:
+In addition to assistance from my mentor and the Slack community, I also received some assistance in writing or troubleshooting my code from previously answered questions on the following websites:
 [Stack Overflow](https://stackoverflow.com/)
 [w3schools.com](https://www.w3schools.com/)
