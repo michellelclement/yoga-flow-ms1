@@ -71,7 +71,50 @@ Initial and frequent commits for the index.html page are stored in the original 
 
 
 ## Testing
-TO BE COMPLETED
+**W3C HTML Validator** – code run through the validator to check there were no syntax errors
+* Ran index.html though validator: 
+    * Passed with no errors
+* Ran findaclass.html though validator: 
+    * Passed with no errors
+* Ran contact.html though validator: 
+    * Passed with no errors
+
+
+**W3C CSS Validator**
+* Ran style.css though validator to check there were no syntax errors: 
+    * Parse error found
+    * Corrected parse error with missing } at end of document
+* Ran style.css through validator again
+    * Passed with no errors
+
+
+**User stories**
+
+* *As a user, I want to be able to see what classes are happening and on which days and times*
+    * A clean, clear and simple navigation bar is visible as soon as a user lands on the site with the menu item Find A Class, clearly stating that the user will find information of the studios classes once clicked. 
+    * Multiple CTA’s with the same title can be found throughout the homepage.
+    * both of these options give the user multiple ways to reach the page where they can find out about the classes.
+
+* *As a user, I want to be able to locate the studio*
+    * Again, the clear and simple navigation bar is visible as soon as a user lands on the site with the menu item Location, clearly stating that the user will find information of the studios classes once clicked. 
+    * This navigation link takes the user to an anchor point on the homepage which includes the studio address and a map. 
+    * The location information is held on the homepage, so a user can also find these details if they scroll through the homepage.
+    * both of these options allow the user to find the location details they require quickly.
+ 
+* *As a user, I want to know how to attend a class*
+    * Information on attending a class is included on the Find A Class page, which can be accessed easily via multiple CTA’s and main navigation links as mentioned above. 
+
+* *As a user, I want to be able to contact the Yoga studio*
+    * A Contact menu item can be found in the main navigation which is visible and available to the user as soon as they land on the site. 
+    * The user can contact the Yoga studio by clicking the clear Contact button in the main navigation and filling in the form on the Contact page.
+    * The Contact form means the user can send their message directly through the site and do not need to leave the website to send an email from another page or service.
+
+**Further testing**
+The website as tested on Google Chrome, Internet Explorer and Firefox browsers.
+The website was viewed on a variety of devices including Desktop, Laptop, iPad, and the mobile options provided by Google chrome developer tools.
+
+A full breakdown of tests can be found in the following document.
+
 
 ## Design
 
@@ -97,18 +140,28 @@ the YOGA FLOW logo was created by myself, simply using the Quicksand font in upp
 
 
 ## Deployment
-I deployed my YOGA FLOW project website using GitHub pages by going to the settings section in my project, in the GitHub pages section towards the bottom of the page I selected the master branch, and hit save.
-This deployed my project to the URL: https://michellelclement.github.io/yoga-flow-ms1/
-[Click here to view the live YOGA FLOW website](https://michellelclement.github.io/yoga-flow-ms1/)
+1. I deployed my YOGA FLOW project website using GitHub pages by the following steps:
+1. Loging in to my GitHub account and locating my repository
+1. Clicking on the settings icon (near the top right of the page
+1. Scrolling down the page to locate the 'GitHub Pages' section
+1. I selected 'Master branch' in the dropdown
+1. This deployed my project to the URL: https://michellelclement.github.io/yoga-flow-ms1/
+[Click here to view the live YOGA FLOW website](https://michellelclement.github.io/yoga-flow-ms1/) 
+
+
 
 ## Credits
 
 **Content**
+
 Website text: All website text was written by myself for this project specifically.
+
 Website colors were finalised using Adobe Color.
 
 **Media**
+
 Photography Images: All photographs used were downloaded from the Royalty Free image website [Pexels](https://www.pexels.com/)
+
 Location map: The map image was created by myself using [Adobe Photoshop](https://www.adobe.com/uk/products/photoshop.html)
 
 ### Acknowledgements
@@ -122,5 +175,5 @@ Thank you to fellow student Jos Velema. Whilst looking for assistance on linking
 And finally a big thank you to my mentor Antonija Šimić!
 
 In addition to assistance from my mentor and the Slack community, I also received some assistance in writing or troubleshooting my code from previously answered questions on the following websites:
-[Stack Overflow](https://stackoverflow.com/)
-[w3schools.com](https://www.w3schools.com/)
+* [Stack Overflow](https://stackoverflow.com/)
+* [w3schools.com](https://www.w3schools.com/)
