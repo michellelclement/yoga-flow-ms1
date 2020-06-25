@@ -1,7 +1,13 @@
 # Milestone 1 Project - YOGA FLOW
 
-My first milestone project has been put together based on my learnings from the 1st to the 5th moudules of the Full Stack Developer course with Code Institute. This includes HTML, CCS, and user centric front end development.
-YOGA FLOW is a fully responsive, custom built website which has been designed and built with the users needs first.
+My first milestone project has been put together based on my learnings from the 1st to the 5th modules of the Full Stack Developer course with Code Institute. This includes HTML, CCS, and user-centric front end development.
+
+YOGA FLOW is a fully responsive, custom-built website which has been designed and built with the users needs first.
+
+You can view the live site here: [YOGA FLOW](https://michellelclement.github.io/yoga-flow-ms1/)
+
+![YOGA FLOW mockups on various devices](/readme-images/mockups.jpg)
+
 
 ## UX
 YOGA FLOW is a new Yoga studio. It is currently finding its feet and looking to grow its customer base.
@@ -14,20 +20,33 @@ Using simple and clear navigation, a clear schedule and informative text, YOGA F
 * As a user, I want to know how to attend a class
 * As a user, I want to be able to contact the Yoga studio
 
-Site Owner’s Goal: The studio is looking to attract new customers and to minimise class enquiries by providing a clear class schedule and information of how to attend a class.
+Site Owner’s Goal: The studio is looking to attract new customers and to minimise class enquiries by providing a clear class schedule and information on how to attend a class.
 * As the site owner, I want to be able to inform visitors of the class schedule
 * As the site owner, I want to be able to inform visitors of the location of the studio
 * As the site owner, I want to be able to inform visitors how to attend a class
 
+## Wireframes
+I took the above user stories and put together the website layout into wireframes. I used Balsamiq to create these for desktop, tablet and mobile screens for each page of the website, showing how elements would differ depending on the varying screen size.
+I did not deviate from the original wireframes, other than adding the map image to the mobile view as I believe it improved the user experience, and also with specific styling of elements such as making the footer icons smaller. 
+
+Below are the wireframes for the homepage. [You can view all of the wireframes, including the additional pages here](wireframes/wireframes-yoga-flow.pdf)
+
+![Homepage wireframes](/readme-images/wireframes.png)
+
 
 ## Features
-Nevigation: The main navigation includes a link to answer each of the user questions, and is styled clear, simple and modern.
-Class Schedule: I created a simple, clear and easy to read table using bootstrap which provides the answer to those wanting to know what classes are on, and on which days. The table is also clear and easy to read on mobile devices. There are many links to this section, including in the navigation and numerous buttons throughout the homepage.
-Contact form: Easily found on the contact page, this form allows users to send any remaining questions they have about YOGA FLOW directly to the site owner.
+Navigation: The main navigation includes a link to the main sections of the site, which answer each of the user questions, and is styled clear, simple and modern.
 
-Whilst the site currently states that the classes are on a 'drop in' basis, a future feature that I would love to add would be a class booking feature. This would be beneficial for when the studio becomes very popular and needs to limit class sizes.
+Class Schedule: I created a simple, clear and easy to read table using bootstrap which allows the user to find a class. It provides all the information needed for those wanting to know what classes are on, and on which days. The table is also clear and easy to read on mobile devices. There are many CTA's to this section on the homepage plus a link in the main navigation named 'Find A Class.'
+
+Contact form: A simple form on the Contact page allows users to send their queries directly to the site owner. A link to this page can found easily in the main navigation.
+
+Future features: Whilst the site currently states that the classes are on a 'drop-in' basis, a future feature that I would love to add would be a class booking feature. This would be beneficial when the studio becomes very popular and needs to limit class sizes.
+
 
 ## Technologies Used
+I used a number of languages, frameworks and tools to construct my website. These include;
+
 * [HTML](http://google.com)
 * [CSS](http://google.com) 
 * [Bootstrap](http://google.com)
@@ -45,9 +64,10 @@ Whilst the site currently states that the classes are on a 'drop in' basis, a fu
 
 
 ## Project Setup
-Upon starting my project, I used a blank repository rather than using the Code Institute template. Once I was informed of the mistake by my mentor, I restarted my project using the correct template.
-As I had completed a lot of the index.html document in the old respository, I simply copied and pasted this to the new template. For this reason, the start and bulk of my index.html file has very few commits.
-Initial and freequent commits for the index.html page are stored in the original repository, [which can be viewed here.](https://github.com/michellelclement/yoga-flow)
+Upon starting my project, I used a blank repository rather than using the Code Institute template. Once I was informed of my mistake by my mentor, I restarted my project using the correct template.
+
+As I had completed a lot of the index.html document in the old repository, I simply copied and pasted this code to the new template. For this reason, the start and bulk of my index.html file has very few commits.
+Initial and frequent commits for the index.html page are stored in the original repository, [which can be viewed here.](https://github.com/michellelclement/yoga-flow)
 
 
 ## Testing
@@ -56,29 +76,30 @@ TO BE COMPLETED
 ## Design
 
 **Colours** 
-I decided to stick to a very simple colour pallet which complements the Yoga mindset and audience. I wanted to use a soft coral/orange colour, complemented by a green shade. I used [Adobe Color](https://color.adobe.com/create) to pick the perfect color combination. 
+I decided to stick to a very simple colour pallet which complements the Yoga mindset and audience. I wanted to use a soft coral/orange colour, complemented by a green shade. I used [Adobe Color](https://color.adobe.com/create) to pick the perfect color combinations. 
+
+Here are the colours I chose via Adobe Colors, from which I selected two.
+![YOGA FLOW color options](/readme-images/adobe-color.png)
 
 Nav & Footer background: #FAFAFA 
-Text: #212529
-Body background: #FFF
-CTA Buttons: #FF8970
-Green: #57FFBD (unused)
+* Text: #212529
+* Body background: #FFF
+* CTA Buttons: #FF8970
+* Green: #70FFC7 (unused)
 
-Upon styling of the website, I decided that, due to the lovely colours of the photography, one accent color was enough and two was unnessessary. I decided to stick with the soft orange/coral shade of #FF8970 to highlight CTA's. This colour also completmented the imagary, as well as the off white and a dark grey.
+Upon styling of the website, I decided that, due to the lovely colours of the photography, one accent color was enough and two was unnecessary. I decided to stick with the soft orange/coral shade of #FF8970 to highlight CTA's. This colour also complimented the imagery, as well as the off white and a dark grey.
 
 **Typography** 
-For the typography, I wanted to use a simple font that fitted with the calming nature of Yoga. I chose Quicksand for this reason due to both regular and capitalised text fitting this requrement, as well as the font being clear and legible on smaller devices. The font was installed into the head element of the HTML files, with a backup front of 'Sans-serif.'
+For the typography, I wanted to use a simple font that fitted with the calming nature of Yoga. I chose Quicksand for this reason due to both regular and capitalised text fitting this  requirement, as well as the font being clear and legible on smaller devices. The font was installed into the head element of the HTML files, with a backup front of 'Sans-serif.'
 
 **Logo**
 the YOGA FLOW logo was created by myself, simply using the Quicksand font in uppercase, and a thicker font weight (600) to the rest of the website to make it stand out as the brand.
 
-**Wireframes**
-I used Balsamiq to create the website wireframes for desktop, tablet and mobile screens for each page of the website, showing how elements would differ depending on the varying screen size.
 
-[You can view all of the wireframes here](wireframes/wireframes-yoga-flow.pdf)
-
-I did not deviate from the original wireframes, other than with specific styling of elements such as making the footer icons smaller. 
-
+## Deployment
+I deployed my YOGA FLOW project website using GitHub pages by going to the settings section in my project, in the GitHub pages section towards the bottom of the page I selected the master branch, and hit save.
+This deployed my project to the URL: https://michellelclement.github.io/yoga-flow-ms1/
+[Click here to view the live YOGA FLOW website](https://michellelclement.github.io/yoga-flow-ms1/)
 
 ## Credits
 
@@ -92,7 +113,7 @@ Location map: The map image was created by myself using [Adobe Photoshop](https:
 
 ### Acknowledgements
 
-Thank you to fellow student and Slack Channel member Anthony O' Brien for helping me with some media query questions, and helping test my project on his Huawi device.
+Thank you to fellow student and Slack Channel member Anthony O' Brien for helping me with some media query questions, and helping test my project on his Huawei device.
 
 Thank you so Malia Havlicek for reviewing my website in the Peer-Code-Review Slack Channel
 
