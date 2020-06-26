@@ -6,7 +6,7 @@ YOGA FLOW is a fully responsive, custom-built website which has been designed an
 
 You can view the live site here: [YOGA FLOW](https://michellelclement.github.io/yoga-flow-ms1/)
 
-![YOGA FLOW mockups on various devices](/readme-images/mockups.jpg)
+![YOGA FLOW mockups on various devices](/readme-docs/mockups.jpg)
 
 
 ## UX
@@ -31,7 +31,7 @@ I did not deviate from the original wireframes, other than adding the map image 
 
 Below are the wireframes for the homepage. [You can view all of the wireframes, including the additional pages here](wireframes/wireframes-yoga-flow.pdf)
 
-![Homepage wireframes](/readme-images/wireframes.png)
+![Homepage wireframes](/readme-docs/wireframes.png)
 
 
 ## Features
@@ -71,6 +71,7 @@ Initial and frequent commits for the index.html page are stored in the original 
 
 
 ## Testing
+
 **W3C HTML Validator** – code run through the validator to check there were no syntax errors
 * Ran index.html though validator: 
     * Passed with no errors
@@ -90,30 +91,31 @@ Initial and frequent commits for the index.html page are stored in the original 
 
 **User stories**
 
-* *As a user, I want to be able to see what classes are happening and on which days and times*
-    * A clean, clear and simple navigation bar is visible as soon as a user lands on the site with the menu item Find A Class, clearly stating that the user will find information of the studios classes once clicked. 
+* * As a user, I want to be able to see what classes are happening and on which days and times
+    * A clean, clear and simple navigation bar is visible as soon as a user lands on the site. The menu item FIND A CLASS clearly states that the user will find information of the studios classes once clicked. 
     * Multiple CTA’s with the same title can be found throughout the homepage.
-    * both of these options give the user multiple ways to reach the page where they can find out about the classes.
+    * Both of these options give the user multiple ways to reach the page where they can find out about the classes.
 
-* *As a user, I want to be able to locate the studio*
-    * Again, the clear and simple navigation bar is visible as soon as a user lands on the site with the menu item Location, clearly stating that the user will find information of the studios classes once clicked. 
-    * This navigation link takes the user to an anchor point on the homepage which includes the studio address and a map. 
+* * As a user, I want to be able to locate the studio
+    * The clear and simple navigation bar is visible as soon as a user lands on the site with the menu item LOCATION, clearly stating that the user will find information of the studios location once clicked. 
+    * This navigation link takes the user to an anchor point on the homepage which includes the studio address and an illustrated map. 
     * The location information is held on the homepage, so a user can also find these details if they scroll through the homepage.
-    * both of these options allow the user to find the location details they require quickly.
+    * Both of these options allow the user to find the location details they require quickly.
  
-* *As a user, I want to know how to attend a class*
-    * Information on attending a class is included on the Find A Class page, which can be accessed easily via multiple CTA’s and main navigation links as mentioned above. 
+* * As a user, I want to know how to attend a class
+    * Information on attending a class is included on the FIND A CLASS page, which can be accessed easily via multiple CTA’s and main navigation links as mentioned above. 
 
-* *As a user, I want to be able to contact the Yoga studio*
-    * A Contact menu item can be found in the main navigation which is visible and available to the user as soon as they land on the site. 
-    * The user can contact the Yoga studio by clicking the clear Contact button in the main navigation and filling in the form on the Contact page.
+* * As a user, I want to be able to contact the Yoga studio
+    * A CONTACT menu item can be found in the main navigation which is visible and available to the user as soon as they land on the site. 
+    * The user can contact the Yoga studio by clicking the clear CONTACT button in the main navigation and filling in the form on the CONTACT page.
     * The Contact form means the user can send their message directly through the site and do not need to leave the website to send an email from another page or service.
+
 
 **Further testing**
 The website as tested on Google Chrome, Internet Explorer and Firefox browsers.
 The website was viewed on a variety of devices including Desktop, Laptop, iPad, and the mobile options provided by Google chrome developer tools.
 
-A full breakdown of tests can be found in the following document.
+A full breakdown of tests can be found [in the document here](/readme-docs/testing.pdf)
 
 
 ## Design
@@ -122,7 +124,7 @@ A full breakdown of tests can be found in the following document.
 I decided to stick to a very simple colour pallet which complements the Yoga mindset and audience. I wanted to use a soft coral/orange colour, complemented by a green shade. I used [Adobe Color](https://color.adobe.com/create) to pick the perfect color combinations. 
 
 Here are the colours I chose via Adobe Colors, from which I selected two.
-![YOGA FLOW color options](/readme-images/adobe-color.png)
+![YOGA FLOW color options](/readme-docs/adobe-color.png)
 
 Nav & Footer background: #FAFAFA 
 * Text: #212529
