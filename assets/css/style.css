@@ -192,7 +192,7 @@ footer {
 }
 
 /* -------------------------------------------Media Queries */
-@media all and (device-width: 1024px) and (device-height: 768px) and (orientation:landscape){
+@media all and (width: 1024px) and (height: 768px) and (orientation:landscape){
     .jumbotron-section {
         height: 100vh;
         background: url('../images/mobile-13.jpg') no-repeat; 
