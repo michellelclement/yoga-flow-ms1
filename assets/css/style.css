@@ -141,7 +141,7 @@ h2 {
 /* ------------------------------------------Contact Page */
 
 .contact-section {
-    margin: 100px 75px;
+    margin: 100px;
 }
 
 .contact-section h2 {
@@ -164,7 +164,7 @@ h2 {
 /* ------------------------------------------Find a Class Page */
 
 .findaclass-section {
-    margin: 100px 75px;
+    padding: 100px;
 }
 
 .findaclass-section h2 {
@@ -238,6 +238,11 @@ footer {
         margin-top: 10px;
     }
 
+    .findaclass-section {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
 @media (max-width: 575px) {
     .jumbotron-section {
         height: 90vh;
@@ -277,10 +282,6 @@ footer {
         margin: 60px 20px;
     }
 
-    .findaclass-section  {
-        margin: 70px 20px;
-    }
-
     .table-container {
         -webkit-box-align: center;
         -ms-flex-align: center;
@@ -289,11 +290,6 @@ footer {
 
     .table-column {
         padding: 0;
-    }
-
-    .table-row {
-        margin-left: 0;
-        margin-right: 0;
     }
 
     .location-text {
