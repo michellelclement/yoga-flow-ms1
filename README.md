@@ -26,7 +26,7 @@ Site Owner’s Goal: The studio is looking to attract new customers and to minim
 * As the site owner, I want to be able to inform visitors how to attend a class
 
 ## Wireframes
-I took the above user stories and put together the website layout into wireframes. I used Balsamiq to create these for desktop, tablet and mobile screens for each page of the website, showing how elements would differ depending on the varying screen size.
+I took the above user stories and put together the website layout into wireframes. I used [Balsamiq](https://balsamiq.com/) to create these for desktop, tablet and mobile screens for each page of the website, showing how elements would differ depending on the varying screen size.
 I did not deviate from the original wireframes, other than adding the map image to the mobile view as I believe it improved the user experience, and also with specific styling of elements such as making the footer icons smaller. 
 
 Below are the wireframes for the homepage. [You can view all of the wireframes, including the additional pages here](wireframes/wireframes-yoga-flow.pdf)
@@ -35,23 +35,23 @@ Below are the wireframes for the homepage. [You can view all of the wireframes, 
 
 
 ## Features
-Navigation: The main navigation includes a link to the main sections of the site, which answer each of the user questions, and is styled clear, simple and modern.
+Navigation: The main navigation includes a link to each of the main sections of the site, which answer each of the user questions, and is styled clear, simple and modern.
 
-Class Schedule: I created a simple, clear and easy to read table using bootstrap which allows the user to find a class. It provides all the information needed for those wanting to know what classes are on, and on which days. The table is also clear and easy to read on mobile devices. There are many CTA's to this section on the homepage plus a link in the main navigation named 'Find A Class.'
+Class Schedule: I created a simple, clear and easy to read table using [Bootstrap](http://google.com) which allows the user to find a class. It provides all the information needed for those wanting to know what classes are on, and on which days. The table is also clear and easy to read on mobile devices. There are many CTA's to this section on the homepage plus a link in the main navigation named 'Find A Class.'
 
-Contact form: A simple form on the Contact page allows users to send their queries directly to the site owner. A link to this page can found easily in the main navigation.
+Contact form: A simple form on the Contact page, again using [Bootstrap](http://google.com) allows users to send their queries directly to the site owner. A link to this page can be found easily in the main navigation.
 
-Future features: Whilst the site currently states that the classes are on a 'drop-in' basis, a future feature that I would love to add would be a class booking feature. This would be beneficial when the studio becomes very popular and needs to limit class sizes.
+Future features: Whilst the site currently states that the classes are on a 'drop-in' basis, a future feature that would benefit the site owner would be a class booking feature. This would be beneficial when the studio becomes very popular and needs to limit class sizes.
 
 
 ## Technologies Used
 I used a number of languages, frameworks and tools to construct my website. These include;
 
-* [HTML](http://google.com)
-* [CSS](http://google.com) 
-* [Bootstrap](http://google.com)
-* [GitHub](http://google.com)
-* [GitPod](http://google.com)
+* [HTML](https://html.com/)
+* [CSS](https://www.w3.org/Style/CSS/Overview.en.html) 
+* [Bootstrap](https://getbootstrap.com/)
+* [GitHub](https://github.com/)
+* [GitPod](https://gitpod.com/)
 
 
 ## Tools Used
@@ -60,13 +60,13 @@ I used a number of languages, frameworks and tools to construct my website. Thes
 * [Adobe Color](https://color.adobe.com/create) - This tool helped me to select my complementing colours
 * [W3C HTML Validator](https://validator.w3.org/) - I used this tool to check the validity of my HTML code.
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - I used this tool to check the validity of my CSS code.
-* [Autoprefixed](https://autoprefixer.github.io/) - I used this tool to check the validity of my CSS code.
+* [Autoprefixed](https://autoprefixer.github.io/) - I used this tool to check the prefixes of my CSS code.
 
 
 ## Project Setup
 Upon starting my project, I used a blank repository rather than using the Code Institute template. Once I was informed of my mistake by my mentor, I restarted my project using the correct template.
 
-As I had completed a lot of the index.html document in the old repository, I simply copied and pasted this code to the new template. For this reason, the start and bulk of my index.html file has very few commits.
+As I had completed a lot of the index.html document in the original repository, I simply copied and pasted this code to the new template. For this reason, the start and bulk of my index.html file has very few commits.
 Initial and frequent commits for the index.html page are stored in the original repository, [which can be viewed here.](https://github.com/michellelclement/yoga-flow)
 
 
@@ -126,7 +126,7 @@ I decided to stick to a very simple colour pallet which complements the Yoga min
 Here are the colours I chose via Adobe Colors, from which I selected two.
 ![YOGA FLOW color options](/readme-docs/adobe-color.png)
 
-Nav & Footer background: #FAFAFA 
+* Nav & Footer background: #FAFAFA 
 * Text: #212529
 * Body background: #FFF
 * CTA Buttons: #FF8970
