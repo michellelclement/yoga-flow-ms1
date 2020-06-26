@@ -64,7 +64,7 @@ h2 {
     height: 80vh;
     background: url('../images/jumbo-13.jpg') no-repeat fixed;
     background-size: cover;
-    background-position: top;
+    background-position: bottom;
     width: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -192,7 +192,16 @@ footer {
 }
 
 /* -------------------------------------------Media Queries */
- 
+@media all and (device-width: 1024px) and (device-height: 768px) and (orientation:landscape){
+    .jumbotron-section {
+        height: 100vh;
+        background: url('../images/mobile-13.jpg') no-repeat; 
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+    }
+}
+
 @media (max-width: 991px) {
     .nav-item-list {
         -webkit-box-pack: end;
@@ -215,7 +224,7 @@ footer {
 
     .jumbotron-section {
         height: 100vh;
-        background: url('../images/mobile-13.jpg') no-repeat; /* Fixed backgrounds do not work correctly on iPhones, so I disabled this feature in order for the background to appear correctly on these devices */
+        background: url('../images/mobile-13.jpg') no-repeat; 
         background-size: cover;
         background-position: center;
         width: 100%;
