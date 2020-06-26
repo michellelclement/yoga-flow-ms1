@@ -37,9 +37,9 @@ Below are the wireframes for the homepage. [You can view all of the wireframes, 
 ## Features
 Navigation: The main navigation includes a link to each of the main sections of the site, which answer each of the user questions, and is styled clear, simple and modern.
 
-Class Schedule: I created a simple, clear and easy to read table using [Bootstrap](http://google.com) which allows the user to find a class. It provides all the information needed for those wanting to know what classes are on, and on which days. The table is also clear and easy to read on mobile devices. There are many CTA's to this section on the homepage plus a link in the main navigation named 'Find A Class.'
+Class Schedule: I created a simple, clear and easy to read table using [Bootstrap](https://getbootstrap.com/) which allows the user to find a class. It provides all the information needed for those wanting to know what classes are on, and on which days. The table is also clear and easy to read on mobile devices. There are many CTA's to this section on the homepage plus a link in the main navigation named 'Find A Class.'
 
-Contact form: A simple form on the Contact page, again using [Bootstrap](http://google.com) allows users to send their queries directly to the site owner. A link to this page can be found easily in the main navigation.
+Contact form: A simple form on the Contact page, again using [Bootstrap](https://getbootstrap.com/) allows users to send their queries directly to the site owner. A link to this page can be found easily in the main navigation.
 
 Future features: Whilst the site currently states that the classes are on a 'drop-in' basis, a future feature that would benefit the site owner would be a class booking feature. This would be beneficial when the studio becomes very popular and needs to limit class sizes.
 
@@ -51,7 +51,7 @@ I used a number of languages, frameworks and tools to construct my website. Thes
 * [CSS](https://www.w3.org/Style/CSS/Overview.en.html) 
 * [Bootstrap](https://getbootstrap.com/)
 * [GitHub](https://github.com/)
-* [GitPod](https://gitpod.com/)
+* [GitPod](https://www.gitpod.io/)
 
 
 ## Tools Used
@@ -84,7 +84,7 @@ Initial and frequent commits for the index.html page are stored in the original 
 **W3C CSS Validator**
 * Ran style.css though validator to check there were no syntax errors: 
     * Parse error found
-    * Corrected parse error with missing } at end of document
+    * Corrected parse error with missing } at end of code
 * Ran style.css through validator again
     * Passed with no errors
 
