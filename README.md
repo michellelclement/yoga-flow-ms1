@@ -120,7 +120,7 @@ A full breakdown of tests can be found [in the document here](/readme-docs/testi
 
 ## Design
 
-**Colours** 
+**Colours:** 
 I decided to stick to a very simple colour pallet which complements the Yoga mindset and audience. I wanted to use a soft coral/orange colour, complemented by a green shade. I used [Adobe Color](https://color.adobe.com/create) to pick the perfect color combinations. 
 
 Here are the colours I chose via Adobe Colors, from which I selected two.
@@ -134,20 +134,21 @@ Here are the colours I chose via Adobe Colors, from which I selected two.
 
 Upon styling of the website, I decided that, due to the lovely colours of the photography, one accent color was enough and two was unnecessary. I decided to stick with the soft orange/coral shade of #FF8970 to highlight CTA's. This colour also complimented the imagery, as well as the off white and a dark grey.
 
-**Typography** 
+**Typography:** 
 For the typography, I wanted to use a simple font that fitted with the calming nature of Yoga. I chose Quicksand for this reason due to both regular and capitalised text fitting this  requirement, as well as the font being clear and legible on smaller devices. The font was installed into the head element of the HTML files, with a backup front of 'Sans-serif.'
 
-**Logo**
+**Logo:**
 the YOGA FLOW logo was created by myself, simply using the Quicksand font in uppercase, and a thicker font weight (600) to the rest of the website to make it stand out as the brand.
 
 
 ## Deployment
-1. I deployed my YOGA FLOW project website using GitHub pages by the following steps:
+I deployed my YOGA FLOW project website using GitHub pages by the following steps:
 1. Loging in to my GitHub account and locating my repository
-1. Clicking on the settings icon (near the top right of the page
+1. Clicking on the settings icon (near the top right of the page)
 1. Scrolling down the page to locate the 'GitHub Pages' section
 1. I selected 'Master branch' in the dropdown
 1. This deployed my project to the URL: https://michellelclement.github.io/yoga-flow-ms1/
+
 [Click here to view the live YOGA FLOW website](https://michellelclement.github.io/yoga-flow-ms1/) 
 
 
